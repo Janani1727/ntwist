@@ -1,0 +1,18 @@
+.navDiv{
+    display: flex;
+   justify-content: space-between;
+}
+
+.navDiv img{
+    width: 180px;
+    margin-left: 30px;
+}
+
+.navdivcontent{
+    display: flex;
+   gap: 50px;
+   margin-right: 40px;
+   font-weight: bold;
+   font-size: 18px;
+   color: white;
+}

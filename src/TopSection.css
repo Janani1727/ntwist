@@ -1,0 +1,18 @@
+.topSection img {
+  height: 455px;
+  width: 50%;
+  margin-left: 548px;
+  margin-top: 100px;
+}
+
+.topSection {
+  width: 100%;
+  margin-top: -70px;
+  height: 740px;
+  background-image: url("https://www.miningmonthly.com/w-images/d734243d-c0c2-45ce-a6a6-9d3ecba6ed32/2/Dassault-1680x600.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+/* https://intellsys-optimizer.b-cdn.net/growthjockey/industries/8f29cd0b-7a77-4f4e-8c20-59d937b439b6/cover-desktop-7b8c84.jpg?quality=85&width=1519.1875&height=360&aspect_ratio=1519.1875:360 */
